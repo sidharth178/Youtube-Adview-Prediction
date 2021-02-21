@@ -1,6 +1,7 @@
 # Youtube adview prediction
+A Machine Learning project for Machine Learning Internship offered by InternshipStudio.
 ### Objective  :
-To build a machine learning regression to predict youtube adview count based on other youtube metrics.
+To build a machine learning model which will predict youtube adview count based on other youtube metrics.
 ### Data Description : 
 The file train.csv contains metrics and other details of about 15000 youtube videos. The metrics include number of views, likes, dislikes, comments and apart from that published date, duration and category are also included. The train.csv file also contains the metric number of adviews which is our target variable for prediction.  
 ### Data :  
